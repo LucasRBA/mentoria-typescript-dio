@@ -88,3 +88,9 @@ Caso queira fazer testes usando html é só alterar o index.html.
    
 ## Sobre colaboração 
 Sinta-se livre para abrir pull requests com melhorias para ajudar quem quiser aprender mais sobre Typescript. Também podem tirar dúvidas comigo via comentário.
+
+## Update Desafio
+<a href="https://www.linkedin.com/in/luis-carlos-zancanela/">
+    <img alt="Update by Didi" src="https://img.shields.io/badge/update%20by-Didi-green">
+</a><br>  
+O desafio 4 que faz com conexão na API do TMDB (https://www.themoviedb.org/) foi completado com o uso do Typescript e adição de bootstrap para estilizar a página.

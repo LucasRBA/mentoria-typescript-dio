@@ -1,0 +1,32 @@
+body{
+     background-color:rgb(43, 43, 43);
+}
+
+section{
+     background-color: rgb(43, 43, 43);
+}
+
+li{
+     color: azure;
+}
+#home{
+     color: whitesmoke;
+}
+
+.form-control.mt-2{
+     background-color: rgb(78, 78, 78);
+     color: rgb(249, 249, 249);
+}
+
+
+.card-title{
+     color: aliceblue;
+}
+
+#lista-filmes-title {
+     color: aliceblue;
+}
+
+#lista {
+     color: antiquewhite;
+}
